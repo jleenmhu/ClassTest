@@ -1,6 +1,11 @@
 #New file started
 
-def main():
-    print("Hello WOrld")
+def new_function1():
+    print("Welcome to the future.")
 
-main()
+def main():
+    new_function1()
+
+if __name__ == "__main__":
+    main()
+
